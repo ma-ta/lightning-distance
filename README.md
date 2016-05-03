@@ -1,2 +1,3 @@
-# LightningDistance
-Výpočet vzdálenosti blesku (Android 5+)
+# Lightning's Distance
+
+> Výpočet vzdálenosti blesku (pro Android 5+)
