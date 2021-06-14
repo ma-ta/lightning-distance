@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Vzdálenost blesku</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Domů</string>
+    <string name="second_fragment_label">Nápověda</string>
+
+    <string name="button_zmer">Podrž mě</string>
+    <string name="button_cancel">Zrušit</string>
+    <string name="button_ok">Potvrdit</string>
+    <string name="set_air_temp">Nastavte teplotu vzduchu</string>
+    <string name="menu_main_about">O aplikaci</string>
+    <string name="string_about">\n\nverze 0.1.0/20216 (β)\n\n© 2016–2021  Martin Tábor\n\n</string>
+    <string name="menu_main_help">Nápověda</string>
+
+    <string name="napoveda_text">Pomocí aplikace můžete určit vaši přibližnou vzdálenost od bouřky na základě časového odstupu od úderu blesku do chvíle, kdy uslyšíte hrom.
+Jde tedy o jednoduchý odhad založený na rychlosti zvuku, která se však může měnit s teplotou, vlhkostí či složením vzduchu v různých výškách.
+\n\n
+Aplikace interně používá tento vzorec:\n\n
+vzdálenost od bouřky\n
+= (331,57 + 0,607 * teplota) * čas</string>
+
+    <string name="napoveda_navod">Pro měření vzdálenosti jednoduše vyčkejte na další blesk a v té chvíli přidržte tlačítko „PODRŽ MĚ“.
+Pusťte jej v okamžiku, kdy začne hřmít.</string>
+
+    <string name="zpet">Zpět</string>
+
+</resources>

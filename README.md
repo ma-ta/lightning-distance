@@ -1,6 +1,6 @@
 # Lightning's Distance
 
-> Výpočet vzdálenosti blesku (pro Android 5+)
+> Výpočet vzdálenosti blesku (pro Android 5.1+)
 
 Screenshoty ve složce [/screenshots](/screenshots)
 
