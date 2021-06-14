@@ -9,7 +9,7 @@
     <string name="button_ok">Potvrdit</string>
     <string name="set_air_temp">Nastavte teplotu vzduchu</string>
     <string name="menu_main_about">O aplikaci</string>
-    <string name="string_about">\n\nverze 0.1.0/20216 (β)\n\n© 2016–2021  Martin Tábor\n\n</string>
+    <string name="string_about">\n\nverze:\n 0.1.0/20216 (β)\n\n© 2016–2021  Martin Tábor\n\n</string>
     <string name="menu_main_help">Nápověda</string>
 
     <string name="napoveda_text">Pomocí aplikace můžete určit vaši přibližnou vzdálenost od bouřky na základě časového odstupu od úderu blesku do chvíle, kdy uslyšíte hrom.
