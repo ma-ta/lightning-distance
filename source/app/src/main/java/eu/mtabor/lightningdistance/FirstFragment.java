@@ -23,18 +23,18 @@ public class FirstFragment extends Fragment {
 
     // proměnné a konstanty
 
-    double cas_0 = 0;
-    double cas_1 = 0;
+    double cas_0     = 0;
+    double cas_1     = 0;
     double cas_delta = 0;
-    int teplota = 20;
-    double rychlost = 0;
-    long vzdalenost = 0;
+    int teplota      = 20;
+    double rychlost  = 0;
+    long vzdalenost  = 0;
 
     final int color_bila = Color.WHITE;
     final int color_accent = Color.parseColor("#C1D9d4");
 
     String jednotka_vzdalenost = "m";
-    String jednotka_teplota = "°C";
+    String jednotka_teplota    = "°C";
 
 
     // GUI

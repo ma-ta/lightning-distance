@@ -9,18 +9,18 @@
     <string name="button_ok">Potvrdit</string>
     <string name="set_air_temp">Nastavte teplotu vzduchu</string>
     <string name="menu_main_about">O aplikaci</string>
-    <string name="string_about">\n\nverze:\n 0.1.0/20216 (β)\n\n© 2016–2021  Martin Tábor\n\n</string>
+    <string name="string_about">\n\nVerze:\n0.1.0  /  22.E30 (β)\n\nGitHub:\nma-ta/lightning-distance\n\n© 2016–2022  Martin TÁBOR\n\n</string>
     <string name="menu_main_help">Nápověda</string>
 
-    <string name="napoveda_text">Pomocí aplikace můžete určit vaši přibližnou vzdálenost od bouřky na základě časového odstupu od úderu blesku do chvíle, kdy uslyšíte hrom.
-Jde tedy o jednoduchý odhad založený na rychlosti zvuku, která se však může měnit s teplotou, vlhkostí či složením vzduchu v různých výškách.
+    <string name="napoveda_text">Aplikace pomůže odhadnout vaši vzdálenost od bouřky na základě časového odstupu mezi úderem blesku a chvíle, kdy uslyšíte hrom.
+\n\nJde tedy o výpočet založený na rychlosti zvuku, která se ovšem mění s teplotou, vlhkostí či složením atmosféry v různých výškách.
 \n\n
-Aplikace interně používá tento vzorec:\n\n
-vzdálenost od bouřky\n
-= (331,57 + 0,607 * teplota) * čas</string>
+Aplikace interně používá následující vzorec:\n\n
+VZDÁLENOST\n
+= (331,57 + 0,607 × TEPLOTA) × ČAS</string>
 
-    <string name="napoveda_navod">Pro měření vzdálenosti jednoduše vyčkejte na další blesk a v té chvíli přidržte tlačítko „PODRŽ MĚ“.
-Pusťte jej v okamžiku, kdy začne hřmít.</string>
+    <string name="napoveda_navod">Pro měření vzdálenosti jednoduše vyčkejte na další blesk a přesně v danou chvíli přidržte tlačítko „PODRŽ MĚ“.
+\nPusťte jej v okamžiku, kdy uslyšíte hřmění.</string>
 
     <string name="zpet">Zpět</string>
 

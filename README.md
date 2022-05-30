@@ -1,8 +1,8 @@
 # Vzdálenost blesku
-
 > Mobilní aplikace pro výpočet vzdálenosti blesku
 
-- screenshoty ve složce [screenshots](/screenshots)
-- instalační [soubor APK](/lightningdistance-0.1.0.apk) pro Android 5.0+ (API level 21)
+### Ke stažení:
+- [Vzdálenost blesku 0.1.0](/lightning-distance_v0.1.0) (soubor APK pro Android)
 
-![Aplikace Vzdálenost blesku](/screenshots/scr02.png)
+### Screenshot:
+![Aplikace Vzdálenost blesku](/lightning-distance_01.png)
