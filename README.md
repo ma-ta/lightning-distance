@@ -1,8 +1,8 @@
 # Vzdálenost blesku
 > Mobilní aplikace pro výpočet vzdálenosti blesku
 
-### Ke stažení:
-- [Vzdálenost blesku 0.1.0](lightning-distance_v0.1.0.apk) (soubor APK pro Android)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ma-ta/lightning-distance?include_prereleases)
+![GitHub](https://img.shields.io/github/license/ma-ta/lightning-distance)
 
 ### Screenshot:
 ![Aplikace Vzdálenost blesku](/lightning-distance_01.png)
